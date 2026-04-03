@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Luqman
 
-<!--
-**cko99/cko99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Anything related to geospatial data 🗺️ and data dashboards 📊
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://linkedin.com/in/linkedin.com/in/luqman-latif">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 🔭 I’m currently working on GIS dashboard projects  
+- 🌱 I’m currently learning SQL, Streamlit, and data workflows  
+- 👯 I’m looking to collaborate on Web/GIS development  
+- 💬 Ask me about GIS, mapping, and data visualization  
+- 📫 How to reach me: your@email.com  
+- ⚡ Fun fact: I turn maps into dashboards  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,js,react,linux" />
+</p>
