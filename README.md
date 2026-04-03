@@ -13,7 +13,7 @@
     <img src="https://img.icons8.com/color/48/fiverr.png" width="40"/>
   </a>
   <a href="https://upwork.com/freelancers/YOUR_ID">
-    <img src="https://img.icons8.com/color/48/upwork.png" width="40"/>
+    <img src="[https://img.icons8.com/color/48/upwork.png](https://share.google/xji5hPsCZGUVkfRXo)" width="40"/>
   </a>
 </p>
 
