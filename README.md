@@ -1,5 +1,4 @@
 # Hi 👋, I'm Luqman
-
 ### Turning geospatial data into actionable insights 🌍📊
 
 <p align="center">
@@ -8,15 +7,15 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:luqmanbinlatif@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.fiverr.com/luqmanlatif673">
-    <img src="https://img.icons8.com/color/48/fiverr.png" width="40"/>
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="28"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.upwork.com">
-    <img src="https://img.icons8.com/color/48/upwork.png" width="40"/>
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" height="28"/>
   </a>
 </p>
 
@@ -40,45 +39,39 @@
 - 📊 Data: SQL, PostgreSQL  
 - 💻 Dev: HTML, JavaScript, Python  
 - 📐 Design: AutoCAD  
-- 🤖 Tools: ChatGPT  
+- 🤖 Tools: ChatGPT, Agisoft Metashape  
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-
-  <!-- Core Dev -->
   <img src="https://skillicons.dev/icons?i=python,js,html,postgres,linux,vscode" />
-
 </p>
 
 <p align="center">
-
-  <!-- GIS & Software (Custom Icons) -->
-  <img src="https://cdn.simpleicons.org/qgis/589632" width="40" title="QGIS"/>
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/esri/007AC2" width="40" title="ArcGIS"/>
+  <img src="https://img.shields.io/badge/ArcGIS-007AC2?style=for-the-badge&logo=esri&logoColor=white"/>
   &nbsp;
-  <img src="https://img.icons8.com/color/48/autocad.png" width="40" title="AutoCAD"/>
+  <img src="https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white"/>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/336791" width="40" title="SQL/PostgreSQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" title="HTML"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/openai/412991" width="40" title="ChatGPT"/>
+  <img src="https://img.shields.io/badge/SuperMap-0055A4?style=for-the-badge&logoColor=white"/>
   &nbsp;
-  <img src="https://img.icons8.com/color/48/3d.png" width="40" title="Agisoft Metashape"/>
+  <img src="https://img.shields.io/badge/Metashape-333333?style=for-the-badge&logoColor=white"/>
   &nbsp;
-  <img src="https://img.icons8.com/color/48/map.png" width="40" title="SuperMap"/>
-
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🌍 GIS Dashboard Malaysia (Coming Soon)  
+- 🌍 [GIS Dashboard Malaysia](https://github.com/cko99) *(Coming Soon)*  
 - 📊 Hotspot Analysis Mapping  
 - 🗺 Geospatial Data Visualization System  
 
